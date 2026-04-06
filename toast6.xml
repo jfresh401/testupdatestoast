@@ -1,14 +1,15 @@
-<toast launch="screen=inbox" displayTimestamp="2026-04-06T18:23:02.733+00:00">
+<toast tag="update1" launch="screen=inbox" displayTimestamp="2026-04-06T19:30:07.252+00:00">
   <visual>
     <binding template="ToastGeneric">
       <image placement="hero" src="https://chie-gaming.com/data/avatars/s/0/5.jpg?1688048060"/>
-      <image placement="appLogoOverride" src="https://chie-gaming.com/styles/logos/Stardustlogo.png"/>
-      <text>update 678</text>
-      <text>Primary body text</text>
-      <text>Optional secondary body line</text>
+      <image placement="appLogoOverride" hint-crop="circle" src="https://chie-gaming.com/styles/logos/Stardustlogo.png"/>
+      <text>update 1</text>
+      <text>by me</text>
+      <text>lets go</text>
+      <text placement="attribution">FL Int</text>
     </binding>
   </visual>
   <actions>
-    <action content="VISIT US" activationType="protocol" arguments="https://chie-gaming.com"/>
+    <action content="Visit Us" activationType="protocol" arguments="https://chie-gaming.com"/>
   </actions>
 </toast>
