@@ -1,9 +1,0 @@
-<toast launch="test">
-  <visual>
-    <binding template="ToastGeneric">
-      <text>FreshLabs Update</text>
-      <text>it works now</text>
-      <text>hopefully</text>
-    </binding>
-  </visual>
-</toast>
