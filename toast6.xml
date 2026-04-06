@@ -3,7 +3,7 @@
     <binding template="ToastGeneric">
       <image placement="hero" src="https://chie-gaming.com/data/avatars/s/0/5.jpg?1688048060"/>
       <image placement="appLogoOverride" src="https://chie-gaming.com/styles/logos/Stardustlogo.png"/>
-      <text>FreshLabs Update</text>
+      <text>update 2</text>
       <text>Primary body text</text>
       <text>Optional secondary body line</text>
     </binding>
