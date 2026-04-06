@@ -1,8 +1,6 @@
 <toast launch="test" displayTimestamp="2026-04-06T17:57:56.7869310+00:00">
   <visual>
     <binding template="ToastGeneric">
-      <image placement="hero" src="https://chie-gaming.com/data/avatars/s/0/5.jpg?1688048060"/>
-      <image placement="appLogoOverride" src="https://chie-gaming.com/styles/logos/Stardustlogo.png"/>
       <text>FreshLabs Update</text>
       <text>it works now</text>
       <text>hopefully</text>
