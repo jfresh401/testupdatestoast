@@ -1,0 +1,14 @@
+<toast launch="screen=inbox" displayTimestamp="2026-04-06T18:23:02.733+00:00">
+  <visual>
+    <binding template="ToastGeneric">
+      <image placement="hero" src="https://chie-gaming.com/data/avatars/s/0/5.jpg?1688048060"/>
+      <image placement="appLogoOverride" src="https://chie-gaming.com/styles/logos/Stardustlogo.png"/>
+      <text>update 2</text>
+      <text>Primary body text</text>
+      <text>Optional secondary body line</text>
+    </binding>
+  </visual>
+  <actions>
+    <action content="VISIT US" activationType="protocol" arguments="https://chie-gaming.com"/>
+  </actions>
+</toast>
