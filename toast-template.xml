@@ -8,7 +8,4 @@
       <text>hopefully</text>
     </binding>
   </visual>
-  <actions>
-    <action content="VISIT" arguments="https://chie-gaming.com" imageUri="https://chie-gaming.com"/>
-  </actions>
 </toast>
