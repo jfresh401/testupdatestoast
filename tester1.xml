@@ -1,8 +1,0 @@
-<toast launch="test">
-  <visual>
-    <binding template="ToastGeneric">
-      <text>FreshLabs Test</text>
-      <text>This is a live XML test.</text>
-    </binding>
-  </visual>
-</toast>
