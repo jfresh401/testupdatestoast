@@ -1,10 +1,10 @@
-<toast tag="update2" launch="screen=inbox" displayTimestamp="2026-04-06T19:30:07.252+00:00">
+<toast tag="update3" launch="screen=inbox" displayTimestamp="2026-04-06T19:30:07.252+00:00">
   <visual>
     <binding template="ToastGeneric">
       <image placement="hero" src="https://chie-gaming.com/data/avatars/s/0/5.jpg?1688048060"/>
       <image placement="appLogoOverride" hint-crop="circle" src="https://chie-gaming.com/styles/logos/Stardustlogo.png"/>
-      <text>update 2</text>
-      <text>by you</text>
+      <text>update 3</text>
+      <text>this shit works</text>
       <text>lets go</text>
       <text placement="attribution">FL Int</text>
     </binding>
