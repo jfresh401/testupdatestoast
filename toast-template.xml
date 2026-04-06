@@ -8,7 +8,7 @@
       <text>Optional secondary body line</text>
     </binding>
   </visual>
-<actions>
-  <action content="VISIT" arguments="https://chie-gaming.com/"/>
-</actions>
+  <actions>
+    <action content="VISIT" arguments="https://chie-gaming.com/"/>
+  </actions>
 </toast>
